@@ -49,23 +49,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [Contributing](#contributing)
 - [License](#license)
 
-## Getting Started
-
-To get started with VBA for Visio, you'll need to have Visio installed on your machine. Once you have Visio installed, you can start creating and running VBA macros within the application.
-
-## Visio and VBA Graphics
-
-Visio provides a powerful set of tools for creating and manipulating graphics. With VBA, you can automate the creation and modification of Visio diagrams, allowing you to build custom solutions and streamline your workflow.
-
-## Examples
-
-Here are a few examples of what you can do with VBA for Visio:
-
-- Create custom shapes and stencils
-- Automate repetitive tasks
-- Generate reports and diagrams programmatically
-- Interact with external data sources
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
