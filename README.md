@@ -37,7 +37,7 @@ Here are the extensions I use that make it easier to work with VBA files in VS C
 - [VBA Formatter](#vba-formatter)
 - [GitHub Copilot](#github-copilot)
 - [GitHub Repositories](#github-repositories)
-- [Power Query / M Language](#power-query-m-anguage)
+- [Power Query/M Language](#power-querym-language)
 - [Power Query SDK](#power-query-sdk)
 
 ### Quality of Life Enhancements -  Adds things that make life so much easier
@@ -54,6 +54,106 @@ Here are the extensions I use that make it easier to work with VBA files in VS C
 - [file-icons](#file-icons)
 - [Material Icon Theme](#material-icon-theme)
 
+## Extension Information
+
+###  VBS
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+
+###  VBA Formatter
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+
+### GitHub Copilot
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+
+###  GitHub Repositories
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+
+###  Power Query/M Language
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+
+###  Power Query SDK
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+
+### Project Manager
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+
+### Bookmarks
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+ 
+### Favorites
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+ 
+### Todo Tree
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+ 
+### Better Comments
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+ 
+### Code Spell Checker
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+ 
+### file-icons
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+ 
+### Material Icon Theme
+
+ - Link:
+ - Pros:
+ - Cons:
+ - Configuration:
+ 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
