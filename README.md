@@ -31,7 +31,7 @@ You'll need a computer capable of running VS Code and running Microsoft Windows 
 
 Here are the extensions I use that make it easier to work with VBA files in VS Code. I have included any settings needed to make the extension work for VBA files.
 
-### Functional - Provides basic things such as syntax highlighting, formatting, and other things to not make VS Code just a text editor
+### Functional - Provides basic things such as syntax highlighting, formatting, and other things to make VS Code more than just a text editor
 
 - [VBS](#vbs)
 - [VBA Formatter](#vba-formatter)
