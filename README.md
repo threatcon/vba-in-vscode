@@ -6,8 +6,8 @@ This README provides an overview of how I edit and work with VBA (Visual Basic f
 
 ## Table of Contents
 
-- [Why?](#why?)
-- [How?](#how?)
+- [Why?](#why)
+- [How?](#how)
 - [Getting Started](#getting-started)
 - [My Extension List](#my-extension-list)
 - [Contributing](#contributing)
