@@ -6,15 +6,6 @@ This README provides an overview of how I edit and work with VBA (Visual Basic f
 
 ## Table of Contents
 
-
-# VBA for Visio
-
-## Introduction
-
-This README provides an overview of VBA (Visual Basic for Applications) for Visio. It covers the basics of using VBA with Visio, including how to create macros, automate tasks, and enhance the functionality of your Visio diagrams.
-
-## Table of Contents
-
 - [Why?](#why?)
 - [How?](#how?)
 - [Getting Started](#getting-started)
