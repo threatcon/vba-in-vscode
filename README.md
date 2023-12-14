@@ -31,7 +31,7 @@ You'll need a computer capable of running VS Code and running Microsoft Windows 
 
 Here are the extensions I use that make it easier to work with VBA files in VS Code. I have included any settings needed to make the extension work for VBA files.
 
-# Functional - Provides basic things such as syntax highlighting, formatting, and other things to not make VS Code just a text editor
+### Functional - Provides basic things such as syntax highlighting, formatting, and other things to not make VS Code just a text editor
 
 - [VBS](#vbs)
 - [VBA Formatter](#vba-formatter)
@@ -40,7 +40,7 @@ Here are the extensions I use that make it easier to work with VBA files in VS C
 - [Power Query / M Language](#power-query-m-anguage)
 - [Power Query SDK](#power-query-sdk)
 
-# Quality of Life Enhancements -  Adds things that make life so much easier
+### Quality of Life Enhancements -  Adds things that make life so much easier
 
 - [Project Manager](#project-manager)
 - [Bookmarks](#bookmarks)
@@ -49,7 +49,7 @@ Here are the extensions I use that make it easier to work with VBA files in VS C
 - [Better Comments](#better-comments)
 - [Code Spell Checker](#code-spell-checker)
 
-# Aesthetic - It's all about the looks
+### Aesthetic - It's all about the looks
 
 - [file-icons](#file-icons)
 - [Material Icon Theme](#material-icon-theme)
