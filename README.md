@@ -19,7 +19,7 @@ I build and maintain VBA applications in Microsoft Excel and Microsoft Visio. Th
 
 ## How?
 
-Well that is the interesting part. If you scower the web, you will find countless tools to extract VBA modules out of Excel. There are VS Code extensions that have syntax, snippets and other quality of life enhancements. You just have to find them and be willing to tinker with them until you can get the to work as close as they would for their intended language. 
+Well that is the interesting part. If you scour the web, you will find countless tools to extract VBA modules out of Excel. There are VS Code extensions that have syntax, snippets and other quality of life enhancements. You just have to find them and be willing to tinker with them until you can get the to work as close as they would for their intended language. 
 
 The good part, I spent months doing it so you wont have to.
 
@@ -58,98 +58,98 @@ Here are the extensions I use that make it easier to work with VBA files in VS C
 
 ###  VBS
 
- - Link:
- - Pros:
+ - Visual Studio Marketplace Link: [VBS](https://marketplace.visualstudio.com/items?itemName=Serpen.vbsvscode)
+ - Pros: 
  - Cons:
  - Configuration:
 
 ###  VBA Formatter
 
- - Link:
+ - Visual Studio Marketplace Link: [VBA Formatter](https://marketplace.visualstudio.com/items?itemName=threatcon.vba-formatter)
  - Pros:
  - Cons:
  - Configuration:
 
 ### GitHub Copilot
 
- - Link:
+ - Visual Studio Marketplace Link: [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
  - Pros:
  - Cons:
  - Configuration:
 
 ###  GitHub Repositories
 
- - Link:
+ - Visual Studio Marketplace Link: [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
  - Pros:
  - Cons:
  - Configuration:
 
 ###  Power Query/M Language
 
- - Link:
+ - Visual Studio Marketplace Link: [Power Query/M Language](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery)
  - Pros:
  - Cons:
  - Configuration:
 
 ###  Power Query SDK
 
- - Link:
+ - Visual Studio Marketplace Link: [Power Query SDK](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk)
  - Pros:
  - Cons:
  - Configuration:
 
 ### Project Manager
 
- - Link:
+ - Visual Studio Marketplace Link: [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
  - Pros:
  - Cons:
  - Configuration:
 
 ### Bookmarks
 
- - Link:
+ - Visual Studio Marketplace Link: [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
  - Pros:
  - Cons:
  - Configuration:
  
 ### Favorites
 
- - Link:
+ - Visual Studio Marketplace Link: [Favorites](https://marketplace.visualstudio.com/items?itemName=kdcro101.favorites)
  - Pros:
  - Cons:
  - Configuration:
  
 ### Todo Tree
 
- - Link:
+ - Visual Studio Marketplace Link: [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
  - Pros:
  - Cons:
  - Configuration:
  
 ### Better Comments
 
- - Link:
+ - Visual Studio Marketplace Link: [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
  - Pros:
  - Cons:
  - Configuration:
  
 ### Code Spell Checker
 
- - Link:
+ - Visual Studio Marketplace Link: [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
  - Pros:
  - Cons:
  - Configuration:
  
 ### file-icons
 
- - Link:
+ - Visual Studio Marketplace Link: [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
  - Pros:
  - Cons:
  - Configuration:
  
 ### Material Icon Theme
 
- - Link:
+ - Visual Studio Marketplace Link: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
  - Pros:
  - Cons:
  - Configuration:
